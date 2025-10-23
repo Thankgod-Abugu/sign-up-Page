@@ -15,7 +15,7 @@
 }
 
 body {
-  /*height: 100vh;*/
+  height: 100%;
   width: 100%;
   background-image: linear-gradient(
     90deg,
@@ -157,4 +157,5 @@ form {
   color: var(--white-color);
   text-decoration: none;
 }
+
 
